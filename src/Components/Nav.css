@@ -1,0 +1,94 @@
+
+
+
+.navBar{
+    position: fixed;
+    /* margin-top: 5%; */
+    height: 100%;
+    z-index: 1000;
+    width: 40px;
+    background-color: black;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    /* display: none; */
+    
+}
+
+
+
+
+.navBar:hover{
+    width: 80px;
+}
+
+
+.bi-person-fill:hover, .bi-house-fill:hover, .bi-chat-fill:hover, .degree01:hover, .bi-code-slash:hover{
+    color: white;
+    border-bottom: white 1px solid;
+}
+
+
+
+
+.activeMenu{
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+
+
+
+.bi-person-fill, .bi-house-fill, .bi-chat-fill, .bi-code-slash{
+    color: rgb(192, 186, 186);
+}
+.degree01{
+    color: rgb(192, 186, 186);
+    font-size:2em;
+
+}
+ 
+
+.about, .portfolio, .say, .homeIcon, .degree{
+    font-size:2em;
+    
+    margin-top: 10vh;
+}
+
+
+
+
+@media only screen and (max-width: 1125px){
+    .navBar{
+        height: 8vh;
+        width: 100%;
+        flex-flow: row;
+        align-content: center;
+        /* justify-content: space-between; */
+
+    }
+    .navBar:hover{
+        width: 100%;
+    }
+    .bi-person-fill:hover, .bi-house-fill:hover, .bi-chat-fill:hover, .degree01:hover, .bi-code-slash:hover{
+        color: white;
+        border-bottom: none;
+    }
+   
+    .about,.homeIcon,.say,.degree, .portfolio{
+        margin-top: -1vh; 
+        font-size: 1.6em;
+        margin-right:5vw;
+    
+    }
+    .bi-person-fill, .bi-house-fill, .bi-chat-fill, .bi-code-slash{
+        color: rgb(192, 186, 186);
+    }
+    .degree01{
+        color: rgb(192, 186, 186);   
+    
+    }
+    
+    
+}

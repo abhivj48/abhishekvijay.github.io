@@ -1,0 +1,65 @@
+.me{
+    display: flex;
+}
+.imgOfMe{
+    width: 50%;
+    margin-top: 13%;
+    margin-left: 10%;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px 0;
+}
+.nameOfAbout{
+    margin-top: 13%;
+    margin-left: -15%;
+}
+.line{
+    width: 60%;
+}
+.name{
+    color: rgba(172, 0, 0, 0.623);
+    font-family: 'Sigmar One', cursive;
+    font-size: 2.6em;
+}
+
+.aForMap{
+    text-decoration: none;
+    color: grey;
+}
+.aForMap:hover{
+    text-decoration: underline;
+    color: grey;
+}
+.paraOfAbout{
+    font-family: 'Poiret One', cursive;
+    color:rgb(44, 39, 39);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+@media only screen and (max-width: 1100px) {
+    .imgOfMe{
+        margin: 25%;
+        margin-left: 20%;
+        width: 100%;
+    }
+    
+    .name{
+       width: .5em;
+       margin-top: 200%;
+       margin-left: -100%;
+    }
+    .line{
+       margin-left: -100%;
+       width: 100%;
+    }
+    .aForMap,.paraOfAbout{
+       margin-left: -100%;
+       margin-bottom: 10%;
+       margin-right: 2%;
+       font-size: 1em;
+
+    }
+    .me{
+        margin-bottom: 20%;
+    }
+
+}

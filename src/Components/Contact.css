@@ -1,0 +1,34 @@
+.sayHelloToMe{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contactForm{
+    /* margin: 50px; */
+    margin:20vh;
+
+}
+.floatForm{
+    width: 100%;
+}
+.textArea{
+    margin-top: 3vh;
+    width: 20vw;
+    height: 20vh;
+
+}
+@media only screen and (max-width: 1125px) {
+    .imgHello{
+        width: 100%;
+        margin-top: 15vh;
+    }
+    .contactForm{
+        margin:0 12vh;
+    }
+    .textArea{
+        width: 45vw;
+        height: 20vh;
+    
+    }
+}
+ 

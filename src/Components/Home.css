@@ -1,0 +1,19 @@
+.logo2{
+    position: absolute;
+    left: 62%;
+    top: 14%;
+}
+.mainLogo2{
+    color:rgb(44, 39, 39);
+    font-family: 'WindSong', cursive;
+    font-family: 'Sigmar One', cursive;
+    font-size: 3.5em;
+}
+.title1{
+    position:absolute;
+    left: 53%;
+    top: 26%;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
