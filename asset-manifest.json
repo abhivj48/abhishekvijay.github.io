@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/abhishekvijay.github.io/static/css/main.6e768de2.chunk.css",
+    "main.js": "/abhishekvijay.github.io/static/js/main.2717402d.chunk.js",
+    "main.js.map": "/abhishekvijay.github.io/static/js/main.2717402d.chunk.js.map",
+    "runtime-main.js": "/abhishekvijay.github.io/static/js/runtime-main.457f7f29.js",
+    "runtime-main.js.map": "/abhishekvijay.github.io/static/js/runtime-main.457f7f29.js.map",
+    "static/css/2.4be38407.chunk.css": "/abhishekvijay.github.io/static/css/2.4be38407.chunk.css",
+    "static/js/2.150d317a.chunk.js": "/abhishekvijay.github.io/static/js/2.150d317a.chunk.js",
+    "static/js/2.150d317a.chunk.js.map": "/abhishekvijay.github.io/static/js/2.150d317a.chunk.js.map",
+    "static/js/3.041f2764.chunk.js": "/abhishekvijay.github.io/static/js/3.041f2764.chunk.js",
+    "static/js/3.041f2764.chunk.js.map": "/abhishekvijay.github.io/static/js/3.041f2764.chunk.js.map",
+    "index.html": "/abhishekvijay.github.io/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/abhishekvijay.github.io/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6e768de2.chunk.css.map": "/abhishekvijay.github.io/static/css/main.6e768de2.chunk.css.map",
+    "static/js/2.150d317a.chunk.js.LICENSE.txt": "/abhishekvijay.github.io/static/js/2.150d317a.chunk.js.LICENSE.txt",
+    "static/media/education.a7324636.gif": "/abhishekvijay.github.io/static/media/education.a7324636.gif",
+    "static/media/me.f73dbb3c.jpeg": "/abhishekvijay.github.io/static/media/me.f73dbb3c.jpeg",
+    "static/media/sayhello.84340128.gif": "/abhishekvijay.github.io/static/media/sayhello.84340128.gif",
+    "static/media/search-home.92388377.PNG": "/abhishekvijay.github.io/static/media/search-home.92388377.PNG",
+    "static/media/search-img.ab8bf95f.PNG": "/abhishekvijay.github.io/static/media/search-img.ab8bf95f.PNG",
+    "static/media/search-news.4fe8d06d.PNG": "/abhishekvijay.github.io/static/media/search-news.4fe8d06d.PNG",
+    "static/media/search-recipe.9f6b91f0.PNG": "/abhishekvijay.github.io/static/media/search-recipe.9f6b91f0.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.457f7f29.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.150d317a.chunk.js",
+    "static/css/main.6e768de2.chunk.css",
+    "static/js/main.2717402d.chunk.js"
+  ]
+}
